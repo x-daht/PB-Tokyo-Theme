@@ -2,9 +2,9 @@
 
 ***Windows Terminal Theme | Personal Oh-My-Posh Theme***
 
-![Tokyo-Theme.png](Theme\Tokyo-Theme.png "Tokio Theme - x-daht")
+![Tokyo-Theme.png](https://github.com/x-daht/PB-Tokyo-Theme/blob/main/Theme/Tokyo-Theme.png "Tokio Theme - x-daht")
 
-***Reference***
+***References***
 
 - *Jan De Dobbeleer*
   - [Web Site](https://ohmyposh.dev/)
